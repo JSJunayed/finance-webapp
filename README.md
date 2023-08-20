@@ -1,2 +1,2 @@
-Getting Started to Create React website
+Getting Started to Create website with React JS
 
